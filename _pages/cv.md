@@ -19,12 +19,12 @@ Education
 
 Work experience
 ======
-* Spring 2025 - Present: Research Intern
+* February 2025 - Present: Research Intern
   * MINIMAX
-* Summer 2024 - Fall 2024: Research Intern
+* June 2024 - September 2024: Research Intern
   * Tencent WXG
   * Supervisor: Zifei Shan
-* Summer 2023 - Fall 2023: Research Intern
+* June 2023 - December 2023: Research Intern
   * Shanghai AI Lab
   * Supervisor: Prof. Yu Cheng
 
